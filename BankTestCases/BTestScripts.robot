@@ -25,6 +25,7 @@ Registration
     TypeText           //table[@class\='form2']//input[@id\='customer.password']             vinnuharshil2009$
     TypeText           //table[@class\='form2']//input[@id\='repeatedPassword']              vinnuharshil2009$
     ClickText          //table[@class\='form2']//input[@class\='button']                     partial_match=False
+    
     Sleep              3s
 
 
