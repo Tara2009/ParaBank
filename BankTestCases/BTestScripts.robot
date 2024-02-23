@@ -12,4 +12,4 @@ Registration
     [Tags]             Regusr
     [Documentation]    User name and password creation
     Appstate           LaunchWebsite
-    ClickText          //div[@id\='loginPanel']//a
+    ClickText          //div[@id\='loginPanel']//a[contains(text(),'Register')]
